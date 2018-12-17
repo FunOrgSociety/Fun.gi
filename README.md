@@ -1,0 +1,2 @@
+# Fun.gi
+Learning project
